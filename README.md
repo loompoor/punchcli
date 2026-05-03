@@ -25,8 +25,15 @@ $ punch out
 ## Install
 
 ```bash
+uvx punchcli --version      # run without installing
+# or
+uv tool install punchcli    # global
+# or
 pip install punchcli
 ```
+
+After `uv tool install`, the `punch` command is on your `PATH`. Update with
+`uv tool upgrade punchcli`.
 
 ---
 
