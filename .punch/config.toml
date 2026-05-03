@@ -1,0 +1,15 @@
+# punchcli configuration — committed to git, edit freely.
+# Run `punch chart --list` for available chart names.
+# Run `punch chart --list-styles` for available style names.
+
+[charts]
+# Charts regenerated on `punch out` and `punch report --write`.
+# `punch chart --all` ignores this list.
+enabled = ["heatmap", "stats", "weekly", "tag_donut"]
+
+# Style applied to pygal charts (heatmap/stats use their own palette).
+style = "github"
+
+# Per-chart options are optional. Defaults shown.
+# [charts.heatmap]
+# weeks = 53

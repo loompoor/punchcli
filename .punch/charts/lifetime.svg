@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" font-family="system, -apple-system, sans-serif">
+  <rect x="0" y="0" width="900" height="160" rx="12" fill="#0d1117"/>
+  <text x="109.2" y="48" text-anchor="middle" font-size="12" fill="#888" font-weight="500">TOTAL</text>
+  <text x="109.2" y="92" text-anchor="middle" font-size="32" fill="#39d353" font-weight="700">5h</text>
+  <text x="109.2" y="120" text-anchor="middle" font-size="11" fill="#888">3 sessions</text>
+  <text x="279.6" y="48" text-anchor="middle" font-size="12" fill="#888" font-weight="500">DAYS TRACKED</text>
+  <text x="279.6" y="92" text-anchor="middle" font-size="32" fill="#39d353" font-weight="700">2</text>
+  <text x="279.6" y="120" text-anchor="middle" font-size="11" fill="#888">avg 2.5h/day</text>
+  <text x="450.0" y="48" text-anchor="middle" font-size="12" fill="#888" font-weight="500">LONGEST STREAK</text>
+  <text x="450.0" y="92" text-anchor="middle" font-size="32" fill="#39d353" font-weight="700">1d</text>
+  <text x="450.0" y="120" text-anchor="middle" font-size="11" fill="#888">consecutive days</text>
+  <text x="620.4" y="48" text-anchor="middle" font-size="12" fill="#888" font-weight="500">TOP DAY</text>
+  <text x="620.4" y="92" text-anchor="middle" font-size="32" fill="#39d353" font-weight="700">3.0h</text>
+  <text x="620.4" y="120" text-anchor="middle" font-size="11" fill="#888">Apr 30, 2026</text>
+  <text x="790.8" y="48" text-anchor="middle" font-size="12" fill="#888" font-weight="500">TOP TAG</text>
+  <text x="790.8" y="92" text-anchor="middle" font-size="32" fill="#39d353" font-weight="700">—</text>
+  <text x="790.8" y="120" text-anchor="middle" font-size="11" fill="#888">no tags yet</text>
+</svg>

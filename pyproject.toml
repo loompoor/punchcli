@@ -1,0 +1,30 @@
+[project]
+name = "punchcli"
+version = "0.1.0"
+description = "Minimal CLI time tracker that logs sessions to SQLite and generates a Markdown report."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Roman Demchuk" }]
+dependencies = [
+    "argcomplete>=3",
+    "pygal>=3.1.0",
+]
+
+[project.scripts]
+punch = "punchcli.__main__:main"
+punchcli = "punchcli.__main__:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["punchcli"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
