@@ -169,9 +169,9 @@
   <rect x="267" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 07:00 — 0 min</title></rect>
   <rect x="298" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 08:00 — 0 min</title></rect>
   <rect x="329" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 09:00 — 0 min</title></rect>
-  <rect x="360" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 10:00 — 0 min</title></rect>
-  <rect x="391" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 11:00 — 0 min</title></rect>
-  <rect x="422" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 12:00 — 0 min</title></rect>
+  <rect x="360" y="222" width="28" height="28" rx="3" fill="#006d32"><title>Sun 10:00 — 21 min</title></rect>
+  <rect x="391" y="222" width="28" height="28" rx="3" fill="#39d353"><title>Sun 11:00 — 47 min</title></rect>
+  <rect x="422" y="222" width="28" height="28" rx="3" fill="#26a641"><title>Sun 12:00 — 31 min</title></rect>
   <rect x="453" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 13:00 — 0 min</title></rect>
   <rect x="484" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 14:00 — 0 min</title></rect>
   <rect x="515" y="222" width="28" height="28" rx="3" fill="#1f1f23"><title>Sun 15:00 — 0 min</title></rect>
