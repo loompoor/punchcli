@@ -34,7 +34,7 @@ def render(rows: Rows) -> str:
         end = start + timedelta(days=6)
         span = 7
 
-    cumulative = []
+    cumulative = [0.0]
     total = 0
     for i in range(span):
         d = start + timedelta(days=i)
@@ -54,7 +54,7 @@ def render(rows: Rows) -> str:
         margin_bottom=40,
     )
     step = max(1, span // 12)
-    chart.x_labels = [
+    chart.x_labels = [""] + [
         (start + timedelta(days=i)).strftime("%b %d") if i % step == 0 else ""
         for i in range(span)
     ]
